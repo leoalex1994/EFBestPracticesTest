@@ -1,0 +1,12 @@
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\bin\Debug\net6.0\CoreServices.deps.json
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\bin\Debug\net6.0\CoreServices.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\bin\Debug\net6.0\CoreServices.pdb
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.csproj.AssemblyReference.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.AssemblyInfoInputs.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.AssemblyInfo.cs
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.csproj.CoreCompileInputs.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\refint\CoreServices.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\CoreServices.pdb
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\CoreServices\obj\Debug\net6.0\ref\CoreServices.dll

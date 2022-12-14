@@ -1,0 +1,15 @@
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\bin\Debug\net6.0\Cross-Cutting.deps.json
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\bin\Debug\net6.0\Cross-Cutting.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\bin\Debug\net6.0\Cross-Cutting.pdb
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\bin\Debug\net6.0\CoreServices.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\bin\Debug\net6.0\CoreServices.pdb
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.csproj.AssemblyReference.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.AssemblyInfoInputs.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.AssemblyInfo.cs
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.csproj.CoreCompileInputs.cache
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.csproj.CopyComplete
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\refint\Cross-Cutting.dll
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\Cross-Cutting.pdb
+C:\ProyectRefs\EntityFRameworkTest\EFBestPracticesTest\Cross-Cutting\obj\Debug\net6.0\ref\Cross-Cutting.dll
