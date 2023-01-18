@@ -10,7 +10,7 @@ namespace CoreServices.Services
     public class TestService : ITestService
     {
         public IEnumerable<string> getTest(){
-            return new string[] { "Soy un", "Crack" };
+            return new string[] { "Soy un", "Crack" }; 
         }
     }
 }
